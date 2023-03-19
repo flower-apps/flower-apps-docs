@@ -9,7 +9,7 @@ const config = {
   title: 'Flower Apps',
   tagline: 'Flower Apps documentation',
   url: 'https://docs.flower-apps.com',
-  baseUrl: '/',
+  baseUrl: '/flower-apps-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
