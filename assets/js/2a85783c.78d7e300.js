@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkflower_apps_docs=self.webpackChunkflower_apps_docs||[]).push([[1709],{6654:o=>{o.exports=JSON.parse('{"permalink":"/flower-apps-docs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

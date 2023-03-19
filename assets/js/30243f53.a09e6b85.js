@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkflower_apps_docs=self.webpackChunkflower_apps_docs||[]).push([[9612],{1064:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/flower-apps-docs/blog/tags/docusaurus","allTagsPath":"/flower-apps-docs/blog/tags","count":4}')}}]);
